@@ -9,3 +9,4 @@ Aplicación de escritorio desarrollada en Python utilizando arquitectura modular
 Ejecuta el archivo principal desde tu terminal en VS Code:
 ```bash
 python main.py
+ESTUDIANTE: MILTON CAMILO NINASUNTA OÑA
